@@ -32,7 +32,7 @@ A clean and modern Weather App built using **HTML, CSS, and JavaScript**, integr
 - JavaScript (Fetch API)
 
 ## 🔗 Live Demo
-[Click here to view](https://<your-username>.github.io/weather-app/)
+[Click here to view](https://anuj-jha-1.github.io/Weather-App/)
 
 ## 🧾 API Used
 [OpenWeatherMap API](https://openweathermap.org/)
